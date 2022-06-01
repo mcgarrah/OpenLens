@@ -2,7 +2,7 @@ name: Check latest Lens version
 
 on:
   schedule:
-    - cron: '15 */6 * * *'
+    - cron: '1 1 * * 1,3,5'
   workflow_dispatch:
 
 jobs:
