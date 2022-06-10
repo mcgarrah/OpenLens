@@ -19,3 +19,7 @@ If you have trouble about not seeing pod logs, remove old config files / extensi
 1. There is an issue for Windows that requires trusting the binary as it is unsigned.
 2. The same issue exists for MacOS as well.
 3. (more to come...)
+
+## TODO
+
+Looking into [SigStore](https://www.sigstore.dev/) as an option for signing the binaries. It looks like the Let's Encrypt of software signing. I'm still reading up on it.
